@@ -16,7 +16,7 @@ export class TaskService {
       userId: 'u3',
       title: 'Build first prototype',
       summary: 'Build a first prototype of the online shop website',
-      dueDate: '2024-05-31',
+      dueDate: '2025-05-31',
     },
     {
       id: 't3',
@@ -24,7 +24,7 @@ export class TaskService {
       title: 'Prepare issue template',
       summary:
         'Prepare and describe an issue template which will help with project management',
-      dueDate: '2024-06-15',
+      dueDate: '2025-06-15',
     },
   ];
 
